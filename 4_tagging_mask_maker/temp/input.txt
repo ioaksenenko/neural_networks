@@ -1,0 +1,14 @@
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=-50%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]б[/answer][/subitem]", "[subitem]2[answer]г[/answer][/subitem]", "[subitem]3[answer]а[/answer][/subitem]", "[subitem]4[answer]в[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]3[/subitem]", "[subitem]1[/subitem]", "[subitem]4[/subitem]", "[subitem]2[/subitem]"]
+Вопрос 7.
+["[cloze]T[/cloze]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[numberinput]T[answer]T[/answer]T[/numberinput]"]

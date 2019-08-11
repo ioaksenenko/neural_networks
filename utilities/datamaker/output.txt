@@ -1,0 +1,46 @@
+Вопрос 1.
+["scq_4", "scq_1", "scq_4", "scq_4", "scq_3", "scq_3", "scq_2,5", "scq_3", "scq_4", "scq_4", "scq_3", "scq_3", "scq_2,6", "scq_3", "scq_4", "scq_4", "scq_3", "scq_3", "scq_2,7", "scq_3", "scq_4", "scq_4", "scq_0", "scq_0", "scq_2,8", "scq_0", "scq_4", "scq_4", "scq_0", "scq_0", "scq_2,9", "scq_0", "scq_4", "scq_4", "scq_1", "scq_4"]
+Вопрос 2.
+["mcq_0", "mcq_1", "mcq_0", "mcq_0", "mcq_3", "mcq_3", "mcq_2,4,5,7,11", "mcq_3", "mcq_0", "mcq_0", "mcq_3", "mcq_3", "mcq_2,5,6,7,11", "mcq_3", "mcq_0", "mcq_0", "mcq_3", "mcq_3", "mcq_2,8,9,13", "mcq_3", "mcq_0", "mcq_4", "mcq_0", "mcq_0", "mcq_2,5,7,10,11", "mcq_0", "mcq_4", "mcq_4", "mcq_0", "mcq_0", "mcq_2,9,12,13", "mcq_0", "mcq_4", "mcq_0", "mcq_1", "mcq_0"]
+Вопрос 3.
+["tiq_0", "tiq_1", "tiq_0", "tiq_0", "tiq_2", "tiq_0", "tiq_0", "tiq_1", "tiq_0"]
+Вопрос 4.
+["niq_0", "niq_1", "niq_0", "niq_0", "niq_2", "niq_0", "niq_0", "niq_1", "niq_0"]
+Вопрос 5.
+["mq_0", "mq_1", "mq_0", "mq_0", "mq_3", "mq_3", "mq_3", "mq_0", "mq_0", "mq_3", "mq_3", "mq_3", "mq_0", "mq_0", "mq_3", "mq_3", "mq_3", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_4", "mq_5", "mq_6", "mq_7", "mq_0", "mq_0", "mq_1", "mq_0"]
+Вопрос 6.
+["oq_0", "oq_1", "oq_0", "oq_0", "oq_3", "oq_3", "oq_3", "oq_0", "oq_0", "oq_3", "oq_3", "oq_3", "oq_0", "oq_0", "oq_3", "oq_3", "oq_3", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_4", "oq_5", "oq_6", "oq_7", "oq_0", "oq_0", "oq_1", "oq_0"]
+Вопрос 1.
+["scq_4", "scq_1", "scq_4", "scq_4", "scq_3", "scq_3", "scq_2,5", "scq_3", "scq_4", "scq_4", "scq_3", "scq_3", "scq_2,6", "scq_3", "scq_4", "scq_4", "scq_3", "scq_3", "scq_2,7", "scq_3", "scq_4", "scq_4", "scq_0", "scq_0", "scq_2,8", "scq_0", "scq_4", "scq_4", "scq_0", "scq_0", "scq_2,9", "scq_0", "scq_4", "scq_4", "scq_1", "scq_4"]
+Вопрос 2.
+["mcq_0", "mcq_1", "mcq_0", "mcq_0", "mcq_3", "mcq_3", "mcq_2,4,5,9,11", "mcq_3", "mcq_0", "mcq_0", "mcq_3", "mcq_3", "mcq_2,6,7,13", "mcq_3", "mcq_0", "mcq_0", "mcq_3", "mcq_3", "mcq_2,5,8,9,11", "mcq_3", "mcq_0", "mcq_4", "mcq_0", "mcq_0", "mcq_2,5,9,10,11", "mcq_0", "mcq_4", "mcq_4", "mcq_0", "mcq_0", "mcq_2,7,12,13", "mcq_0", "mcq_4", "mcq_0", "mcq_1", "mcq_0"]
+Вопрос 3.
+["tiq_0", "tiq_1", "tiq_0", "tiq_0", "tiq_2", "tiq_0", "tiq_0", "tiq_1", "tiq_0"]
+Вопрос 4.
+["niq_0", "niq_1", "niq_0", "niq_0", "niq_2", "niq_0", "niq_0", "niq_1", "niq_0"]
+Вопрос 5.
+["mq_0", "mq_1", "mq_0", "mq_0", "mq_3", "mq_3", "mq_3", "mq_0", "mq_0", "mq_3", "mq_3", "mq_3", "mq_0", "mq_0", "mq_3", "mq_3", "mq_3", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_4", "mq_5", "mq_6", "mq_7", "mq_0", "mq_0", "mq_1", "mq_0"]
+Вопрос 6.
+["oq_0", "oq_1", "oq_0", "oq_0", "oq_3", "oq_3", "oq_3", "oq_0", "oq_0", "oq_3", "oq_3", "oq_3", "oq_0", "oq_0", "oq_3", "oq_3", "oq_3", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_4", "oq_5", "oq_6", "oq_7", "oq_0", "oq_0", "oq_1", "oq_0"]
+Вопрос 1.
+["scq_4", "scq_1", "scq_4", "scq_4", "scq_3", "scq_3", "scq_2,5", "scq_3", "scq_4", "scq_4", "scq_3", "scq_3", "scq_2,6", "scq_3", "scq_4", "scq_4", "scq_3", "scq_3", "scq_2,7", "scq_3", "scq_4", "scq_4", "scq_0", "scq_0", "scq_2,8", "scq_0", "scq_4", "scq_4", "scq_0", "scq_0", "scq_2,9", "scq_0", "scq_4", "scq_4", "scq_1", "scq_4"]
+Вопрос 2.
+["mcq_0", "mcq_1", "mcq_0", "mcq_0", "mcq_3", "mcq_3", "mcq_2,4,5,7,11", "mcq_3", "mcq_0", "mcq_0", "mcq_3", "mcq_3", "mcq_2,5,6,7,11", "mcq_3", "mcq_0", "mcq_0", "mcq_3", "mcq_3", "mcq_2,8,9,13", "mcq_3", "mcq_0", "mcq_4", "mcq_0", "mcq_0", "mcq_2,5,7,10,11", "mcq_0", "mcq_4", "mcq_4", "mcq_0", "mcq_0", "mcq_2,9,12,13", "mcq_0", "mcq_4", "mcq_0", "mcq_1", "mcq_0"]
+Вопрос 3.
+["tiq_0", "tiq_1", "tiq_0", "tiq_0", "tiq_2", "tiq_0", "tiq_0", "tiq_1", "tiq_0"]
+Вопрос 4.
+["niq_0", "niq_1", "niq_0", "niq_0", "niq_2", "niq_0", "niq_0", "niq_1", "niq_0"]
+Вопрос 6.
+["oq_0", "oq_1", "oq_0", "oq_0", "oq_3", "oq_3", "oq_3", "oq_0", "oq_0", "oq_3", "oq_3", "oq_3", "oq_0", "oq_0", "oq_3", "oq_3", "oq_3", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_4", "oq_5", "oq_6", "oq_7", "oq_0", "oq_0", "oq_1", "oq_0"]
+Вопрос 1.
+["scq_4", "scq_1", "scq_4", "scq_4", "scq_3", "scq_3", "scq_2,5", "scq_3", "scq_4", "scq_4", "scq_3", "scq_3", "scq_2,6", "scq_3", "scq_4", "scq_4", "scq_3", "scq_3", "scq_2,7", "scq_3", "scq_4", "scq_4", "scq_0", "scq_0", "scq_2,8", "scq_0", "scq_4", "scq_4", "scq_0", "scq_0", "scq_2,9", "scq_0", "scq_4", "scq_4", "scq_1", "scq_4"]
+Вопрос 2.
+["mcq_0", "mcq_1", "mcq_0", "mcq_0", "mcq_3", "mcq_3", "mcq_2,4,5,13", "mcq_3", "mcq_0", "mcq_0", "mcq_3", "mcq_3", "mcq_2,6,7,9,11", "mcq_3", "mcq_0", "mcq_0", "mcq_3", "mcq_3", "mcq_2,7,8,9,11", "mcq_3", "mcq_0", "mcq_4", "mcq_0", "mcq_0", "mcq_2,7,9,10,11", "mcq_0", "mcq_4", "mcq_4", "mcq_0", "mcq_0", "mcq_2,5,12,13", "mcq_0", "mcq_4", "mcq_0", "mcq_1", "mcq_0"]
+Вопрос 3.
+["tiq_0", "tiq_1", "tiq_0", "tiq_0", "tiq_2", "tiq_0", "tiq_0", "tiq_1", "tiq_0"]
+Вопрос 4.
+["niq_0", "niq_1", "niq_0", "niq_0", "niq_2", "niq_0", "niq_0", "niq_1", "niq_0"]
+Вопрос 5.
+["mq_0", "mq_1", "mq_0", "mq_0", "mq_3", "mq_3", "mq_3", "mq_0", "mq_0", "mq_3", "mq_3", "mq_3", "mq_0", "mq_0", "mq_3", "mq_3", "mq_3", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_0", "mq_4", "mq_5", "mq_6", "mq_7", "mq_0", "mq_0", "mq_1", "mq_0"]
+Вопрос 6.
+["oq_0", "oq_1", "oq_0", "oq_0", "oq_3", "oq_3", "oq_3", "oq_0", "oq_0", "oq_3", "oq_3", "oq_3", "oq_0", "oq_0", "oq_3", "oq_3", "oq_3", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_0", "oq_4", "oq_5", "oq_6", "oq_7", "oq_8", "oq_0", "oq_0", "oq_1", "oq_0"]

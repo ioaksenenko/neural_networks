@@ -1,0 +1,10 @@
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=-100%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "value=50%"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=50%"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "value=50%"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "value=50%"]

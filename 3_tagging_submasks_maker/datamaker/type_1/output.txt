@@ -1,0 +1,288 @@
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-33%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]", "T", "[numberinput][answer]T[/answer][/numberinput]", "T", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]в[/answer][/subitem]", "[subitem]2[answer]а[/answer][/subitem]", "[subitem]3[answer]б[/answer][/subitem]", "[subitem]4[answer]г[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]2[/subitem]", "[subitem]4[/subitem]", "[subitem]1[/subitem]", "[subitem]3[/subitem]", "[subitem]5[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-33%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]", "T", "[numberinput][answer]T[/answer][/numberinput]", "T", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]г[/answer][/subitem]", "[subitem]2[answer]в[/answer][/subitem]", "[subitem]3[answer]а[/answer][/subitem]", "[subitem]4[answer]б[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]1[/subitem]", "[subitem]4[/subitem]", "[subitem]3[/subitem]", "[subitem]2[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]", "T", "[numberinput][answer]T[/answer][/numberinput]", "T", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]в[/answer][/subitem]", "[subitem]2[answer]а[/answer][/subitem]", "[subitem]3[answer]б[/answer][/subitem]", "[subitem]4[answer]г[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]3[/subitem]", "[subitem]2[/subitem]", "[subitem]4[/subitem]", "[subitem]1[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]", "T"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]", "T", "[numberinput][answer]T[/answer][/numberinput]", "T", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]б[/answer][/subitem]", "[subitem]2[answer]а[/answer][/subitem]", "[subitem]3[answer]г[/answer][/subitem]", "[subitem]4[answer]в[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]1[/subitem]", "[subitem]4[/subitem]", "[subitem]2[/subitem]", "[subitem]3[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=25%", "[choice]T[/choice]", "value=-100%", "[choice]T[/choice]", "value=25%", "[choice]T[/choice]", "value=25%", "[choice]T[/choice]", "value=25%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]б[/answer][/subitem]", "[subitem]2[answer]в[/answer][/subitem]", "[subitem]3[answer]а[/answer][/subitem]", "[subitem]4[answer]г[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]2[/subitem]", "[subitem]3[/subitem]", "[subitem]5[/subitem]", "[subitem]4[/subitem]", "[subitem]1[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=33%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]", "T", "[textinput][answer]T[/answer][/textinput]", "T"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]б[/answer][/subitem]", "[subitem]2[answer]г[/answer][/subitem]", "[subitem]3[answer]в[/answer][/subitem]", "[subitem]4[answer]а[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]1[/subitem]", "[subitem]2[/subitem]", "[subitem]3[/subitem]", "[subitem]4[/subitem]", "[subitem]5[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=-50%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]г[/answer][/subitem]", "[subitem]2[answer]в[/answer][/subitem]", "[subitem]3[answer]а[/answer][/subitem]", "[subitem]4[answer]б[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]1[/subitem]", "[subitem]2[/subitem]", "[subitem]3[/subitem]", "[subitem]4[/subitem]", "[subitem]5[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=-50%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]", "T"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]б[/answer][/subitem]", "[subitem]2[answer]г[/answer][/subitem]", "[subitem]3[answer]в[/answer][/subitem]", "[subitem]4[answer]а[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]1[/subitem]", "[subitem]2[/subitem]", "[subitem]3[/subitem]", "[subitem]4[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-33%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]", "T"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]в[/answer][/subitem]", "[subitem]2[answer]а[/answer][/subitem]", "[subitem]3[answer]б[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]1[/subitem]", "[subitem]2[/subitem]", "[subitem]3[/subitem]", "[subitem]4[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=-33%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]б[/answer][/subitem]", "[subitem]2[answer]в[/answer][/subitem]", "[subitem]3[answer]г[/answer][/subitem]", "[subitem]4[answer]а[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]1[/subitem]", "[subitem]2[/subitem]", "[subitem]3[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=-33%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]", "T"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]б[/answer][/subitem]", "[subitem]2[answer]д[/answer][/subitem]", "[subitem]3[answer]а[/answer][/subitem]", "[subitem]4[answer]в[/answer][/subitem]", "[subitem]5[answer]г[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]1[/subitem]", "[subitem]3[/subitem]", "[subitem]2[/subitem]", "[subitem]4[/subitem]", "[subitem]5[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]б[/answer][/subitem]", "[subitem]2[answer]г[/answer][/subitem]", "[subitem]3[answer]а[/answer][/subitem]", "[subitem]4[answer]в[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]2[/subitem]", "[subitem]4[/subitem]", "[subitem]1[/subitem]", "[subitem]3[/subitem]", "[subitem]5[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=-33%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]б[/answer][/subitem]", "[subitem]2[answer]в[/answer][/subitem]", "[subitem]3[answer]а[/answer][/subitem]", "[subitem]4[answer]г[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]2[/subitem]", "[subitem]3[/subitem]", "[subitem]1[/subitem]", "[subitem]4[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=-33%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]", "T", "[textinput][answer]T[/answer][/textinput]", "T", "[textinput][answer]T[/answer][/textinput]", "T", "[textinput][answer]T[/answer][/textinput]", "T"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]в[/answer][/subitem]", "[subitem]2[answer]а[/answer][/subitem]", "[subitem]3[answer]б[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]2[/subitem]", "[subitem]4[/subitem]", "[subitem]3[/subitem]", "[subitem]5[/subitem]", "[subitem]1[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-33%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]б[/answer][/subitem]", "[subitem]2[answer]а[/answer][/subitem]", "[subitem]3[answer]г[/answer][/subitem]", "[subitem]4[answer]в[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]3[/subitem]", "[subitem]2[/subitem]", "[subitem]4[/subitem]", "[subitem]1[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]", "T"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]б[/answer][/subitem]", "[subitem]2[answer]в[/answer][/subitem]", "[subitem]3[answer]г[/answer][/subitem]", "[subitem]4[answer]а[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]1[/subitem]", "[subitem]2[/subitem]", "[subitem]3[/subitem]", "[subitem]4[/subitem]", "[subitem]5[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]б[/answer][/subitem]", "[subitem]2[answer]в[/answer][/subitem]", "[subitem]3[answer]а[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]1[/subitem]", "[subitem]2[/subitem]", "[subitem]3[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=-33%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]в[/answer][/subitem]", "[subitem]2[answer]а[/answer][/subitem]", "[subitem]3[answer]б[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]1[/subitem]", "[subitem]2[/subitem]", "[subitem]3[/subitem]", "[subitem]4[/subitem]", "[subitem]5[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=33%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]в[/answer][/subitem]", "[subitem]2[answer]а[/answer][/subitem]", "[subitem]3[answer]б[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]1[/subitem]", "[subitem]2[/subitem]", "[subitem]3[/subitem]", "[subitem]4[/subitem]", "[subitem]5[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]б[/answer][/subitem]", "[subitem]2[answer]г[/answer][/subitem]", "[subitem]3[answer]в[/answer][/subitem]", "[subitem]4[answer]а[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]1[/subitem]", "[subitem]2[/subitem]", "[subitem]3[/subitem]", "[subitem]4[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]а[/answer][/subitem]", "[subitem]2[answer]в[/answer][/subitem]", "[subitem]3[answer]б[/answer][/subitem]", "[subitem]4[answer]г[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]1[/subitem]", "[subitem]2[/subitem]", "[subitem]3[/subitem]", "[subitem]4[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]б[/answer][/subitem]", "[subitem]2[answer]а[/answer][/subitem]", "[subitem]3[answer]г[/answer][/subitem]", "[subitem]4[answer]в[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]1[/subitem]", "[subitem]2[/subitem]", "[subitem]3[/subitem]", "[subitem]4[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]б[/answer][/subitem]", "[subitem]2[answer]д[/answer][/subitem]", "[subitem]3[answer]в[/answer][/subitem]", "[subitem]4[answer]г[/answer][/subitem]", "[subitem]5[answer]а[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]1[/subitem]", "[subitem]2[/subitem]", "[subitem]3[/subitem]", "[subitem]4[/subitem]"]
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%"]
+Вопрос 3.
+["[item]T[/item]", "[textinput][answer]T[/answer][/textinput]"]
+Вопрос 4.
+["[item]T[/item]", "[numberinput][answer]T[/answer][/numberinput]"]
+Вопрос 5.
+["[item]T[/item]", "[matching][/matching]", "numbering=123)", "[subitem]1[answer]г[/answer][/subitem]", "[subitem]2[answer]а[/answer][/subitem]", "[subitem]3[answer]б[/answer][/subitem]", "[subitem]4[answer]в[/answer][/subitem]"]
+Вопрос 6.
+["[item]T[/item]", "[ordering][/ordering]", "numbering=123)", "[subitem]1[/subitem]", "[subitem]2[/subitem]", "[subitem]3[/subitem]", "[subitem]4[/subitem]", "[subitem]5[/subitem]"]

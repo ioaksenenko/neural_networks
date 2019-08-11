@@ -1,0 +1,388 @@
+Вопрос 1.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 2.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 3.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice]T[/choice][choice value=1]T[/choice][/singlechoice][/item]
+Вопрос 4.
+[item]T[singlechoice numbering=123.;][choice value=1]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][singlechoice][choice]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 5.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 6.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 7.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 8.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 9.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 10.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 11.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 12.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 13.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 14.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 15.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][/singlechoice][/item]
+Вопрос 16.
+[item]T[singlechoice numbering=123.;][choice value=1 value=50%]T[/choice][choice value=1 value=50%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 17.
+[item]T[singlechoice numbering=123.;][choice value=-50%]T[/choice][choice value=1 value=50%]T[/choice][choice value=1 value=50%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 18.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 19.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 20.
+[item]T[singlechoice numbering=123.;][choice value=33%]T[/choice][choice value=33%]T[/choice][choice value=33%]T[/choice][choice]T[/choice][/singlechoice][multichoice][/multichoice][/item]
+Вопрос 21.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 22.
+[item]T[multichoice numbering=123.;][choice value=-33%]T[/choice][choice]T[/choice][choice]T[/choice][choice]T[/choice][/multichoice][multichoice][choice value=50%]T[/choice][/multichoice][/item]
+Вопрос 23.
+[item]T[multichoice numbering=123.;][choice value=-33%]T[/choice][choice value=-50%]T[/choice][choice value=50%]T[/choice][choice value=50%]T[/choice][/multichoice][/item]
+Вопрос 24.
+[item]T[multichoice numbering=123.;][choice value=-33%]T[/choice][choice value=-50%]T[/choice][choice value=50%]T[/choice][choice value=50%]T[/choice][/multichoice][/item]
+Вопрос 25.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 26.
+[item]T[/item]
+Вопрос 27.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 28.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 29.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 30.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 31.
+[item]T[multichoice numbering=123.;][choice value=50%]T[/choice][choice]T[/choice][/multichoice][multichoice][choice value=33%]T[/choice][choice value=33%]T[/choice][choice value=50%]T[/choice][/multichoice][/item]
+Вопрос 32.
+[item]T[multichoice numbering=123.;][choice value=25%]T[/choice][choice value=25%]T[/choice][choice]T[/choice][/multichoice][multichoice][choice]T[/choice][/multichoice][multichoice][choice]T[/choice][/multichoice][multichoice][choice]T[/choice][/multichoice][multichoice][/multichoice][/item]
+Вопрос 33.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 34.
+[item]T[singlechoice numbering=123.;][choice value=1 value=20%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][choice value=1 value=20%]T[/choice][choice value=1]T[/choice][choice value=1]T[/choice][choice value=20%]T[/choice][choice value=1]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 35.
+[item]T[singlechoice numbering=123.;][choice value=1 value=50%]T[/choice][choice value=1 value=50%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][choice]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 37.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 38.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 39.
+[item]T[singlechoice numbering=123.;][choice value=-33%]T[/choice][choice value=1 value=50%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][choice]T[/choice][/singlechoice][singlechoice][choice value=1]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 40.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 41.
+[item]T[/item]
+Вопрос 42.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 43.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 44.
+[item]T[singlechoice numbering=123.;][choice value=1 value=50%]T[/choice][choice value=1 value=50%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 45.
+[item]T[singlechoice numbering=123.;][choice]T[/choice][choice]T[/choice][choice value=1 value=50%]T[/choice][choice value=1 value=50%]T[/choice][/singlechoice][/item]
+Вопрос 46.
+[item]T[singlechoice numbering=123.;][choice value=1 value=50%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][choice value=50%]T[/choice][choice value=1]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 47.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 48.
+[item]T[singlechoice numbering=123.;][choice value=1 value=50%]T[/choice][choice value=1 value=50%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][choice]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 49.
+[item]T[singlechoice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 50.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 51.
+[item]T[singlechoice numbering=123.;][choice value=-50%]T[/choice][choice]T[/choice][choice]T[/choice][choice value=1 value=50%]T[/choice][choice value=1 value=50%]T[/choice][/singlechoice][/item]
+Вопрос 52.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 53.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 54.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 55.
+[item]T[singlechoice][/singlechoice][singlechoice view=vertical][/singlechoice][/item]
+Вопрос 56.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 57.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 58.
+[item]T[singlechoice numbering=123.;][choice value=1 value=50%]T[/choice][choice value=1 value=50%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 59.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 60.
+[item]T[/item]
+Вопрос 61.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 62.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 63.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 64.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 65.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 66.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 67.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 68.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 69.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 70.
+[item]T[singlechoice numbering=123.;][choice value=-50%]T[/choice][choice value=1 value=50%]T[/choice][choice value=50%]T[/choice][choice value=1]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 71.
+[item]T[singlechoice numbering=123.;][choice value=1 value=50%]T[/choice][choice value=1 value=50%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][choice]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 72.
+[item]T[singlechoice numbering=123.;][choice value=-50%]T[/choice][choice value=1 value=50%]T[/choice][choice value=50%]T[/choice][choice value=1]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 73.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice]T[/choice][choice value=1]T[/choice][/singlechoice][/item]
+Вопрос 74.
+[item]T[singlechoice numbering=123.;][/singlechoice][/item]
+Вопрос 75.
+[item]T[/item]
+Вопрос 76.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 77.
+[item]T[singlechoice numbering=123.;][choice value=-50%]T[/choice][choice value=1 value=50%]T[/choice][choice value=1 value=50%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 78.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice]T[/choice][choice value=1]T[/choice][/singlechoice][/item]
+Вопрос 79.
+[item]T[singlechoice][/singlechoice][singlechoice view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 80.
+[item]T[singlechoice numbering=123.;][choice value=1 value=50%]T[/choice][choice value=1 value=50%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][choice]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 81.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice]T[/choice][choice value=1]T[/choice][/singlechoice][/item]
+Вопрос 82.
+[item]T[singlechoice][/singlechoice][singlechoice view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 83.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 84.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 85.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 86.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 87.
+[item]T[singlechoice numbering=123.;][choice value=1 value=50%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][choice value=1 value=50%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 88.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 89.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 90.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice]T[/choice][choice value=1]T[/choice][/singlechoice][/item]
+Вопрос 91.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 92.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 93.
+[item]T[singlechoice numbering=123.;][choice value=-33%]T[/choice][choice value=-50%]T[/choice][choice value=1]T[/choice][/singlechoice][singlechoice][choice]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 94.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 95.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 96.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 97.
+[item]T[singlechoice numbering=123.;][choice value=-50%]T[/choice][choice value=1 value=50%]T[/choice][choice value=1 value=50%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 98.
+[item]T[singlechoice numbering=123.;][choice value=1 value=50%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][choice value=1 value=50%]T[/choice][/singlechoice][/item]
+Вопрос 99.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 100.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 101.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 103.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][/singlechoice][/item]
+Вопрос 104.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 105.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 106.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 107.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice]T[/choice][choice value=1]T[/choice][/singlechoice][/item]
+Вопрос 108.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 109.
+[item]T[/item]
+Вопрос 110.
+[item]T[/item]
+Вопрос 111.
+[item]T[/item]
+Вопрос 112.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 113.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 114.
+[item]T[/item]
+Вопрос 115.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 117.
+[item]T[/item]
+Вопрос 118.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 119.
+[item]T[/item]
+Вопрос 120.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 121.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 123.
+[item]T[/item]
+Вопрос 124.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 125.
+[item]T[/item]
+Вопрос 126.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 128.
+[item]T[/item]
+Вопрос 129.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 130.
+[item]T[multichoice numbering=123.;][choice value=50%]T[/choice][choice]T[/choice][/multichoice][multichoice][choice value=33%]T[/choice][choice value=33%]T[/choice][/multichoice][/item]
+Вопрос 131.
+[item]T[multichoice][/multichoice][multichoice][/multichoice][/item]
+Вопрос 132.
+[item]T[/item]
+Вопрос 133.
+[item]T[multichoice numbering=123.;][choice value=-33%]T[/choice][choice value=50%]T[/choice][choice value=50%]T[/choice][choice value=50%]T[/choice][choice value=33%]T[/choice][/multichoice][/item]
+Вопрос 134.
+[item]T[/item]
+Вопрос 135.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 136.
+[item]T[/item]
+Вопрос 137.
+[item]T[singlechoice numbering=123.;][choice value=1 value=50%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][choice value=1 value=25%]T[/choice][choice value=33%]T[/choice][choice value=1 value=33%]T[/choice][/singlechoice][/item]
+Вопрос 138.
+[item]T[singlechoice numbering=123.;][choice value=1 value=33%]T[/choice][choice value=50%]T[/choice][choice value=1 value=33%]T[/choice][choice value=1]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 139.
+[item]T[/item]
+Вопрос 140.
+[item]T[singlechoice numbering=123.;][choice value=1 value=25%]T[/choice][choice value=1 value=25%]T[/choice][choice value=1 value=25%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][choice value=1 value=25%]T[/choice][/singlechoice][/item]
+Вопрос 141.
+[item]T[/item]
+Вопрос 142.
+[item]T[singlechoice numbering=123.;][choice value=1 value=25%]T[/choice][choice value=1 value=25%]T[/choice][choice value=1 value=25%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][choice value=1 value=25%]T[/choice][/singlechoice][/item]
+Вопрос 143.
+[item]T[singlechoice numbering=123.;][choice value=1 value=25%]T[/choice][choice value=50%]T[/choice][choice value=1 value=25%]T[/choice][choice value=1]T[/choice][/singlechoice][singlechoice][choice value=1 value=25%]T[/choice][/singlechoice][/item]
+Вопрос 144.
+[item]T[singlechoice numbering=123.;][choice value=1 value=33%]T[/choice][choice value=50%]T[/choice][choice value=33%]T[/choice][choice]T[/choice][/singlechoice][multichoice][/multichoice][/item]
+Вопрос 146.
+[item]T[multichoice numbering=123.;][choice value=50%]T[/choice][choice]T[/choice][/multichoice][multichoice][choice value=50%]T[/choice][choice]T[/choice][/multichoice][multichoice][/multichoice][/item]
+Вопрос 147.
+[item]T[multichoice numbering=123.;][choice]T[/choice][choice]T[/choice][choice value=33%]T[/choice][choice value=33%]T[/choice][choice value=33%]T[/choice][/multichoice][/item]
+Вопрос 148.
+[item]T[multichoice numbering=123.;][choice value=50%]T[/choice][choice value=50%]T[/choice][choice]T[/choice][/multichoice][multichoice][choice]T[/choice][/multichoice][multichoice][/multichoice][/item]
+Вопрос 149.
+[item]T[multichoice numbering=123.;][choice value=-50%]T[/choice][choice value=50%]T[/choice][choice value=50%]T[/choice][choice value=33%]T[/choice][/multichoice][/item]
+Вопрос 150.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 151.
+[item]T[/item]
+Вопрос 152.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 153.
+[item]T[multichoice numbering=123.;][choice value=50%]T[/choice][choice value=50%]T[/choice][choice]T[/choice][/multichoice][multichoice][choice]T[/choice][/multichoice][multichoice][/multichoice][/item]
+Вопрос 154.
+[item]T[/item]
+Вопрос 155.
+[item]T[multichoice numbering=123.;][choice value=-50%]T[/choice][choice value=50%]T[/choice][choice value=50%]T[/choice][choice value=33%]T[/choice][/multichoice][/item]
+Вопрос 156.
+[item]T[/item]
+Вопрос 157.
+[item]T[multichoice numbering=123.;][choice value=50%]T[/choice][choice]T[/choice][/multichoice][multichoice][choice value=50%]T[/choice][choice]T[/choice][/multichoice][multichoice][/multichoice][/item]
+Вопрос 158.
+[item]T[singlechoice numbering=123.;][choice value=-50%]T[/choice][choice value=1 value=50%]T[/choice][choice value=1 value=50%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 159.
+[item]T[singlechoice numbering=123.;][choice value=1 value=50%]T[/choice][choice]T[/choice][/singlechoice][singlechoice][choice value=50%]T[/choice][choice value=1]T[/choice][/singlechoice][singlechoice][/singlechoice][/item]
+Вопрос 160.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 161.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 162.
+[item]T[singlechoice numbering=123.; view=vertical][choice value=1]T[/choice][choice]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 163.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice value=1]T[/choice][choice]T[/choice][/singlechoice][/item]
+Вопрос 164.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice]T[/choice][choice value=1]T[/choice][/singlechoice][/item]
+Вопрос 165.
+[item]T[singlechoice numbering=123.;][choice value=1 value=50%]T[/choice][choice value=50%]T[/choice][choice value=50%]T[/choice][/singlechoice][/item]
+Вопрос 166.
+[item]T[multichoice numbering=123.;][choice value=50%]T[/choice][choice value=50%]T[/choice][choice]T[/choice][/multichoice][multichoice][choice]T[/choice][/multichoice][multichoice][/multichoice][/item]
+Вопрос 167.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 168.
+[item]T[multichoice numbering=123.;][choice value=33%]T[/choice][choice value=33%]T[/choice][choice value=33%]T[/choice][choice]T[/choice][/multichoice][multichoice][/multichoice][/item]
+Вопрос 169.
+[item]T[multichoice numbering=123.;][choice value=50%]T[/choice][choice]T[/choice][/multichoice][multichoice][choice value=50%]T[/choice][choice]T[/choice][/multichoice][multichoice][/multichoice][/item]
+Вопрос 170.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 171.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 172.
+[item]T[/item]
+Вопрос 173.
+[item]T[multichoice numbering=123.;][choice value=50%]T[/choice][choice]T[/choice][/multichoice][multichoice][choice value=50%]T[/choice][choice]T[/choice][/multichoice][multichoice][/multichoice][/item]
+Вопрос 174.
+[item]T[multichoice numbering=123.;][choice value=50%]T[/choice][choice]T[/choice][/multichoice][multichoice][choice value=50%]T[/choice][choice]T[/choice][/multichoice][multichoice][/multichoice][/item]
+Вопрос 175.
+[item]T[multichoice numbering=123.;][choice value=50%]T[/choice][choice value=50%]T[/choice][choice]T[/choice][/multichoice][multichoice][/multichoice][/item]
+Вопрос 176.
+[item]T[multichoice numbering=123.;][choice value=-50%]T[/choice][choice value=50%]T[/choice][choice value=50%]T[/choice][choice value=33%]T[/choice][/multichoice][/item]
+Вопрос 177.
+[item]T[multichoice numbering=123.;][choice value=33%]T[/choice][choice value=33%]T[/choice][choice value=33%]T[/choice][choice]T[/choice][/multichoice][multichoice][/multichoice][/item]
+Вопрос 178.
+[item]T[/item]
+Вопрос 179.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 180.
+[item]T[multichoice numbering=123.;][choice value=33%]T[/choice][choice value=50%]T[/choice][choice value=33%]T[/choice][choice]T[/choice][/multichoice][multichoice][/multichoice][/item]
+Вопрос 181.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 182.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 183.
+[item]T[/item]
+Вопрос 184.
+[item]T[/item]
+Вопрос 185.
+[item]T[multichoice numbering=123.;][choice value=50%]T[/choice][choice]T[/choice][/multichoice][multichoice][choice value=50%]T[/choice][choice]T[/choice][/multichoice][multichoice][/multichoice][/item]
+Вопрос 186.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 187.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 188.
+[item]T[multichoice numbering=123.;][choice value=33%]T[/choice][choice value=33%]T[/choice][choice value=33%]T[/choice][choice]T[/choice][/multichoice][multichoice][choice]T[/choice][/multichoice][multichoice][/multichoice][/item]
+Вопрос 189.
+[item]T[multichoice numbering=123.;][choice value=25%]T[/choice][choice value=25%]T[/choice][choice value=25%]T[/choice][choice value=25%]T[/choice][choice]T[/choice][/multichoice][multichoice][/multichoice][/item]
+Вопрос 190.
+[item]T[multichoice numbering=123.;][choice]T[/choice][choice]T[/choice][choice value=50%]T[/choice][choice value=50%]T[/choice][/multichoice][/item]
+Вопрос 191.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 192.
+[item]T[multichoice numbering=123.;][choice value=25%]T[/choice][choice value=25%]T[/choice][choice value=25%]T[/choice][choice]T[/choice][/multichoice][multichoice][choice]T[/choice][/multichoice][multichoice][/multichoice][/item]
+Вопрос 193.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 194.
+[item]T[/item]
+Вопрос 195.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 196.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 197.
+[item]T[/item]
+Вопрос 198.
+[item]T[multichoice numbering=123.;][choice value=-50%]T[/choice][choice value=50%]T[/choice][choice value=50%]T[/choice][choice value=33%]T[/choice][/multichoice][/item]
+Вопрос 199.
+[item]T[multichoice numbering=123.;][/multichoice][/item]
+Вопрос 200.
+[item]T[multichoice numbering=123.;][/multichoice][/item]

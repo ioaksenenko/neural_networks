@@ -1,0 +1,14 @@
+Вопрос 1.
+[item]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice]T[/choice][choice]T[/choice][choice value=1]T[/choice][/singlechoice][/item]
+Вопрос 2.
+[item]T[multichoice numbering=123.;][choice value=33%]T[/choice][choice value=-50%]T[/choice][choice value=33%]T[/choice][choice value=33%]T[/choice][choice value=-50%]T[/choice][/multichoice][/item]
+Вопрос 3.
+[item]T[textinput][answer]T[/answer][/textinput][/item]
+Вопрос 4.
+[item]T[numberinput][answer]T[/answer][/numberinput][/item]
+Вопрос 5.
+[item]T[matching numbering=123)][subitem]1[answer]б[/answer][/subitem][subitem]2[answer]г[/answer][/subitem][subitem]3[answer]а[/answer][/subitem][subitem]4[answer]в[/answer][/subitem][/matching][/item]
+Вопрос 6.
+[item]T[ordering numbering=123)][subitem]3[/subitem][subitem]1[/subitem][subitem]4[/subitem][subitem]2[/subitem][/ordering][/item]
+Вопрос 7.
+[cloze]T[singlechoice numbering=123.; view=vertical][choice]T[/choice][choice]T[/choice][choice]T[/choice][choice value=1]T[/choice][/singlechoice][numberinput]T[answer]T[/answer]T[/numberinput][/cloze]

@@ -1,0 +1,164 @@
+{
+    "item":
+    {
+        "attributes": [],
+        "content":
+        {
+            "singlechoice":
+            {
+                "attributes": ["numbering", "shuffle", "view"],
+                "content":
+                {
+                    "choice":
+                    {
+                        "attributes": ["value"],
+                        "content":
+                        {}
+                    }
+                }
+            },
+            "multichoice":
+            {
+                "attributes": ["numbering", "shuffle"],
+                "content":
+                {
+                    "choice":
+                    {
+                        "attributes": ["value"],
+                        "content":
+                        {}
+                    }
+                }
+            },
+            "textinput":
+            {
+                "attributes": ["ignorecase", "width", "regex"],
+                "content":
+                {
+                    "answer":
+                    {
+                        "attributes": ["value", "regex"],
+                        "content":
+                        {}
+                    }
+                }
+            },
+            "numberinput":
+            {
+                "attributes": ["width", "tolerance"],
+                "content":
+                {
+                    "answer":
+                    {
+                        "attributes": ["value", "tolerance"],
+                        "content":
+                        {}
+                    },
+                    "unit":
+                    {
+                        "attributes": ["name", "multiplier"],
+                        "content":
+                        {}
+                    }
+                }
+            },
+            "matching":
+            {
+                "attributes": ["width", "shuffle", "numbering"],
+                "content":
+                {
+                    "subitem":
+                    {
+                        "attributes": [],
+                        "content":
+                        {
+                            "answer":
+                            {
+                                "attributes": [],
+                                "content":
+                                {}
+                            }
+                        }
+                    }
+                }
+            },
+            "ordering":
+            {
+                "attributes": ["width", "numbering"],
+                "content":
+                {
+                    "subitem":
+                    {
+                        "attributes": [],
+                        "content":
+                        {}
+                    }
+                }
+            },
+            "hint":
+            {
+                "attributes": [],
+                "content":
+                {}
+            },
+            "name":
+            {
+                "attributes": [],
+                "content":
+                {}
+            }
+        }
+    },
+    "cloze":
+    {
+        "attributes": [],
+        "content":
+        {
+            "singlechoice":
+            {
+                "attributes": ["numbering", "shuffle", "view"],
+                "content":
+                {
+                    "choice":
+                    {
+                        "attributes": ["value"],
+                        "content":
+                        {}
+                    }
+                }
+            },
+            "textinput":
+            {
+                "attributes": ["ignorecase", "width", "regex"],
+                "content":
+                {
+                    "answer":
+                    {
+                        "attributes": ["value", "regex"],
+                        "content":
+                        {}
+                    }
+                }
+            },
+            "numberinput":
+            {
+                "attributes": ["width", "tolerance"],
+                "content":
+                {
+                    "answer":
+                    {
+                        "attributes": ["value", "tolerance"],
+                        "content":
+                        {}
+                    },
+                    "unit":
+                    {
+                        "attributes": ["name", "multiplier"],
+                        "content":
+                        {}
+                    }
+                }
+            }
+        }
+    }
+}

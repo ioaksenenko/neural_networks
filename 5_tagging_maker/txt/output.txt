@@ -1,0 +1,14 @@
+Вопрос 1.
+[item]Укажите административный центр Томской области:[singlechoice numbering=123.; view=vertical][choice]Асино[/choice][choice]Северск[/choice][choice]Стрежевой[/choice][choice value=1]Томск[/choice][/singlechoice][/item]
+Вопрос 2.
+[item]Укажите города Томской области:[multichoice numbering=123.;][choice value=33%]Томск[/choice][choice value=-50%]Кожевниково[/choice][choice value=33%]Северск[/choice][choice value=33%]Асино[/choice][choice value=-50%]Юрга[/choice][/multichoice][/item]
+Вопрос 3.
+[item]Какой город является административным центром Томской области?[textinput][answer]Томск[/answer][/textinput][/item]
+Вопрос 4.
+[item]Укажите численность населения г. Томска в 2016 году. Ответ укажите в тыс. чел.[numberinput][answer]569 293[/answer][/numberinput][/item]
+Вопрос 5.
+[item]Сопоставьте населённые пункты Томской области и год их основания.[matching numbering=123)][subitem]Томск[answer]1604[/answer][/subitem][subitem]Северск[answer]1949[/answer][/subitem][subitem]Каргасок[answer]1640[/answer][/subitem][subitem]Кривошеино[answer]1826[/answer][/subitem][/matching][/item]
+Вопрос 6.
+[item]Расставьте населённые пункты Томской области по порядку согласно году их основания.[ordering numbering=123)][subitem]Томск[/subitem][subitem]Каргасок[/subitem][subitem]Кривошеино[/subitem][subitem]Северск[/subitem][/ordering][/item]
+Вопрос 7.
+[cloze]Укажите административный центр Томской области:[singlechoice numbering=123.; view=vertical][choice]Асино[/choice][choice]Северск[/choice][choice]Стрежевой[/choice][choice value=1]Томск[/choice][/singlechoice][numberinput]Он был основан в[answer]1604[/answer]году.[/numberinput][/cloze]

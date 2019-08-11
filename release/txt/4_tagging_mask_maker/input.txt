@@ -1,0 +1,388 @@
+Вопрос 1.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 2.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 3.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]"]
+Вопрос 4.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "T", "T", "[choice value=1]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[singlechoice][/singlechoice]", "[choice]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 5.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 6.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 7.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 8.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 9.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 10.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 11.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 12.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 13.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 14.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 15.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "T", "T"]
+Вопрос 16.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 17.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice]T[/choice]", "value=-50%", "[choice value=1]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 18.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 19.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 20.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 21.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 22.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "value=50%"]
+Вопрос 23.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%"]
+Вопрос 24.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%"]
+Вопрос 25.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 26.
+["[item]T[/item]", "value=-25%", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 27.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 28.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 29.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 30.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 31.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=50%"]
+Вопрос 32.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=25%", "[choice]T[/choice]", "value=25%", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 33.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 34.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=20%", "[choice]T[/choice]", "[singlechoice][/singlechoice]", "[choice value=1]T[/choice]", "value=20%", "[choice value=1]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]", "value=20%", "[choice value=1]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 35.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "[singlechoice][/singlechoice]", "[choice]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 37.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]", "T"]
+Вопрос 38.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 39.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "[singlechoice][/singlechoice]", "[choice]T[/choice]", "[singlechoice][/singlechoice]", "[choice value=1]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 40.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 41.
+["[item]T[/item]", "value=-33%", "numbering=123.;", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice value=1]T[/choice]", "T", "value=50%"]
+Вопрос 42.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 43.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 44.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 45.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "value=50%"]
+Вопрос 46.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "[singlechoice][/singlechoice]", "[choice]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 47.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 48.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "[singlechoice][/singlechoice]", "[choice]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 49.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "[singlechoice][/singlechoice]"]
+Вопрос 50.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 51.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "value=50%"]
+Вопрос 52.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 53.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 54.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 55.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "[singlechoice][/singlechoice]", "view=vertical"]
+Вопрос 56.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[subitem]3[/subitem]"]
+Вопрос 57.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 58.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 59.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 60.
+["[item]T[/item]", "[choice]T[/choice]", "numbering=123.;", "view=vertical"]
+Вопрос 61.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 62.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 63.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 64.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 65.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 66.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 67.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 68.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 69.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 70.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice]T[/choice]", "value=-50%", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 71.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "[singlechoice][/singlechoice]", "[choice]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 72.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice]T[/choice]", "value=-50%", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 73.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]"]
+Вопрос 74.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;"]
+Вопрос 75.
+["[item]T[/item]", "numbering=123.;", "numbering=123.;", "view=vertical"]
+Вопрос 76.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 77.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice]T[/choice]", "value=-50%", "[choice value=1]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 78.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]"]
+Вопрос 79.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "[singlechoice][/singlechoice]", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 80.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "[singlechoice][/singlechoice]", "[choice]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 81.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]"]
+Вопрос 82.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "[singlechoice][/singlechoice]", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]", "T"]
+Вопрос 83.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 84.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 85.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 86.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 87.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "[singlechoice][/singlechoice]", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 88.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 89.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 90.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]"]
+Вопрос 91.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 92.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 93.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=-50%", "[choice value=1]T[/choice]", "[singlechoice][/singlechoice]", "[choice]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 94.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 95.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 96.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 97.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice]T[/choice]", "value=-50%", "[choice value=1]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 98.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "[singlechoice][/singlechoice]", "[choice value=1]T[/choice]", "value=50%"]
+Вопрос 99.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 100.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 101.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 103.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]"]
+Вопрос 104.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 105.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 106.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 107.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]"]
+Вопрос 108.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 109.
+["[item]T[/item]", "value=-33%", "[multichoice][/multichoice]", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 110.
+["[item]T[/item]", "value=-33%", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 111.
+["[item]T[/item]", "value=-25%", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 112.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 113.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 114.
+["[item]T[/item]", "value=-33%", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 115.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 117.
+["[item]T[/item]", "value=-33%", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 118.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 119.
+["[item]T[/item]", "value=-33%", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 120.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 121.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 123.
+["[item]T[/item]", "value=-25%", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 124.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 125.
+["[item]T[/item]", "value=-25%", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 126.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 128.
+["[item]T[/item]", "value=-33%", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 129.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 130.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%"]
+Вопрос 131.
+["[item]T[/item]", "[multichoice][/multichoice]", "[multichoice][/multichoice]"]
+Вопрос 132.
+["[item]T[/item]", "value=-33%", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 133.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-33%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=33%"]
+Вопрос 134.
+["[item]T[/item]", "value=-25%", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 135.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 136.
+["[item]T[/item]", "value=20%", "numbering=123.;", "[choice]T[/choice]", "value=25%", "[choice]T[/choice]", "value=25%", "[choice]T[/choice]", "value=25%", "[choice]T[/choice]", "value=25%", "[choice]T[/choice]", "value=20%"]
+Вопрос 137.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "[singlechoice][/singlechoice]", "[choice value=1]T[/choice]", "value=25%", "[choice]T[/choice]", "value=33%", "[choice value=1]T[/choice]", "value=33%"]
+Вопрос 138.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=33%", "[choice]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "value=33%", "[choice value=1]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 139.
+["[item]T[/item]", "value=20%", "numbering=123.;", "[choice value=1]T[/choice]", "value=25%", "[choice value=1]T[/choice]", "value=25%", "[choice value=1]T[/choice]", "value=25%", "[choice value=1]T[/choice]", "value=25%", "[choice]T[/choice]", "value=20%"]
+Вопрос 140.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=25%", "[choice value=1]T[/choice]", "value=25%", "[choice value=1]T[/choice]", "value=25%", "[choice]T[/choice]", "[singlechoice][/singlechoice]", "[choice value=1]T[/choice]", "value=25%"]
+Вопрос 141.
+["[item]T[/item]", "value=20%", "numbering=123.;", "[choice value=1]T[/choice]", "value=25%", "[choice value=1]T[/choice]", "value=25%", "[choice value=1]T[/choice]", "value=25%", "[choice value=1]T[/choice]", "value=25%", "[choice]T[/choice]", "value=20%"]
+Вопрос 142.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=25%", "[choice value=1]T[/choice]", "value=25%", "[choice value=1]T[/choice]", "value=25%", "[choice]T[/choice]", "[singlechoice][/singlechoice]", "[choice value=1]T[/choice]", "value=25%"]
+Вопрос 143.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=25%", "[choice]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "value=25%", "[choice value=1]T[/choice]", "[singlechoice][/singlechoice]", "[choice value=1]T[/choice]", "value=25%"]
+Вопрос 144.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=33%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 146.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 147.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%"]
+Вопрос 148.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 149.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=33%"]
+Вопрос 150.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 151.
+["[item]T[/item]", "value=-25%", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 152.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 153.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 154.
+["[item]T[/item]", "value=-25%", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 155.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=33%"]
+Вопрос 156.
+["[item]T[/item]", "value=-25%", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 157.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 158.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice]T[/choice]", "value=-50%", "[choice value=1]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 159.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "[singlechoice][/singlechoice]", "[choice]T[/choice]", "value=50%", "[choice value=1]T[/choice]", "[singlechoice][/singlechoice]"]
+Вопрос 160.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 161.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 162.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice value=1]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 163.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice value=1]T[/choice]", "[choice]T[/choice]"]
+Вопрос 164.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice value=1]T[/choice]"]
+Вопрос 165.
+["[item]T[/item]", "[singlechoice][/singlechoice]", "numbering=123.;", "[choice value=1]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%"]
+Вопрос 166.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 167.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 168.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 169.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 170.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 171.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 172.
+["[item]T[/item]", "value=-25%", "[multichoice][/multichoice]", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 173.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 174.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 175.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 176.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=33%"]
+Вопрос 177.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 178.
+["[item]T[/item]", "value=-33%", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 179.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 180.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 181.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 182.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 183.
+["[item]T[/item]", "value=-25%", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 184.
+["[item]T[/item]", "value=-25%", "numbering=123.;", "[choice]T[/choice]", "value=-33%"]
+Вопрос 185.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 186.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 187.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 188.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "value=33%", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 189.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=25%", "[choice]T[/choice]", "value=25%", "[choice]T[/choice]", "value=25%", "[choice]T[/choice]", "value=25%", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 190.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%"]
+Вопрос 191.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 192.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=25%", "[choice]T[/choice]", "value=25%", "[choice]T[/choice]", "value=25%", "[choice]T[/choice]", "[multichoice][/multichoice]", "[choice]T[/choice]", "[multichoice][/multichoice]"]
+Вопрос 193.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 194.
+["[item]T[/item]", "value=-50%", "value=50%", "view=vertical", "[choice]T[/choice]"]
+Вопрос 195.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 196.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 197.
+["[item]T[/item]", "value=-33%", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 198.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "[choice]T[/choice]", "value=-50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=50%", "[choice]T[/choice]", "value=33%"]
+Вопрос 199.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]
+Вопрос 200.
+["[item]T[/item]", "[multichoice][/multichoice]", "numbering=123.;", "view=vertical", "[choice]T[/choice]", "[choice]T[/choice]", "[choice]T[/choice]"]

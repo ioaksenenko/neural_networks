@@ -1,0 +1,71 @@
+{
+	'content': 
+	[
+		{
+			'item': 
+			{
+				'attrs': [], 
+				'content': 
+				[
+					'T', 
+					{
+						'singlechoice': 
+						{
+							'attrs': 
+							[
+								'numbering=123.;', 
+								'view=vertical'
+							], 
+							'content': 
+							[
+								{
+									'choice': 
+									{
+										'attrs': [], 
+										'content': 
+										[
+											'T'
+										]
+									}
+								}, 
+								{
+									'choice': 
+									{
+										'attrs': [], 
+										'content': 
+										[
+											'T'
+										]
+									}
+								}, 
+								{
+									'choice': 
+									{
+										'attrs': [], 
+										'content': 
+										[
+											'T'
+										]
+									}
+								}, 
+								{
+									'choice': 
+									{
+										'attrs': 
+										[
+											'value=1'
+										], 
+										'content': 
+										[
+											'T'
+										]
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		}
+	]
+}
